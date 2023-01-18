@@ -1,4 +1,4 @@
-# lecture
+# project01
 
 ## Project setup
 ```
